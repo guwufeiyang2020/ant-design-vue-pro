@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-   <a-button type="primary">
+    <a-button type="primary">
       Primary
     </a-button>
   </div>
@@ -12,8 +12,6 @@
 
 export default {
   name: "Home",
-  components: {
-  
-  }
+  components: {}
 };
 </script>
